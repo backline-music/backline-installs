@@ -61,15 +61,23 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 ## What you need
 
 - **Windows 10 or 11**, 64-bit, with a CPU that has AVX2 (almost anything from 2013 on), or **a Mac with Apple
-  Silicon** (M1 or newer).
+  Silicon** (M1 or newer) on macOS 13 Ventura or later. Intel Macs aren't supported.
 - **8 GB of RAM**, 16 GB recommended for importing songs.
 - **Disk:** about 5 GB on Windows (1 GB on a Mac) for song processing, plus 50 to 100 MB per song.
 - **Imports:** about a minute on Windows with an NVIDIA graphics card, several minutes on the CPU; about two minutes
   on an M1.
 - **For guitar:** an audio interface or a Rocksmith Real Tone Cable. On Windows, an interface with an ASIO driver gives
-  the lowest delay; on a Mac, any interface works with low delay as it is.
+  the lowest delay; on a Mac, any interface works with low delay as it is (the Real Tone Cable isn't tested
+  on a Mac yet).
 - **For keys and drums:** a MIDI keyboard or electronic drum kit to be scored.
 - An internet connection for the first setup.
+
+## Removing it
+
+- **Windows:** uninstall Backline from Settings › Apps. Your songs, amp models and settings are kept.
+- **macOS:** first open Backline's **Settings › Storage › Remove song processing** (it frees about 1 GB that the app
+  can't remove once it's gone), then drag Backline from Applications to the Bin. Your songs, amp models and cabs stay in
+  the Backline folder in your home folder; settings and sounds are in `~/Library/Application Support/Backline`.
 
 ## Feedback
 
