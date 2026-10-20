@@ -12,10 +12,16 @@ Get the latest installer from **[Releases](../../releases/latest)**. Older versi
 
 - **Windows:** `Backline-x.y.z-setup.exe`. The installer isn't code-signed yet, so Windows may say "Windows protected
   your PC": click **More info › Run anyway**.
-- **macOS:** coming soon (Apple Silicon).
+- **macOS (Apple Silicon):** `Backline-x.y.z-mac.dmg`. Open it and drag **Backline** onto **Applications**. The app
+  isn't notarised by Apple yet, so the first time you open it macOS says it can't check it for malware:
+  1. Click **Done** (not Move to Bin).
+  2. Open **System Settings › Privacy & Security**, scroll down to "Backline was blocked to protect your Mac" and click
+     **Open Anyway**, then confirm with your password. After that it opens like any other app.
+  3. When Backline asks to use the microphone, click **Allow**: that's how it hears your guitar.
 
-The installer is small (about 18 MB). The first-run setup downloads the rest: the sound packs you pick, and a one-time
-download of about 3 GB for song processing (about 5 GB once installed).
+The download is small (about 20 MB). The first-run setup downloads the rest: the sound packs you pick, and a one-time
+download for song processing: about 3 GB on Windows (about 5 GB once installed), about 400 MB on a Mac (about 1 GB
+once installed).
 
 ## What it does
 
@@ -57,14 +63,23 @@ download of about 3 GB for song processing (about 5 GB once installed).
 
 ## What you need
 
-- **Windows 10 or 11**, 64-bit, with a CPU that has AVX2 (almost anything from 2013 on).
+- **Windows 10 or 11**, 64-bit, with a CPU that has AVX2 (almost anything from 2013 on), **or a Mac with Apple
+  Silicon** (M1 or later) on macOS 11 or later (tested on macOS 15). Intel Macs aren't supported.
 - **8 GB of RAM**, 16 GB recommended for importing songs.
-- **About 5 GB of disk** for song processing, plus 50 to 100 MB per song.
-- **An NVIDIA graphics card is optional**: imports take about a minute with one, several minutes on the CPU.
-- **For guitar:** an audio interface or a Rocksmith Real Tone Cable. An interface with an ASIO driver gives the lowest
-  delay.
+- **Disk for song processing:** about 5 GB on Windows, about 1 GB on a Mac, plus 50 to 100 MB per song.
+- **Import speed:** on Windows an NVIDIA graphics card is optional: imports take about a minute with one, several
+  minutes on the CPU. On an M1 MacBook Air a song takes about two minutes.
+- **For guitar:** an audio interface or a Rocksmith Real Tone Cable. On Windows, an interface with an ASIO driver gives
+  the lowest delay; on a Mac any USB interface works without a driver (the Real Tone Cable isn't tested on a Mac yet).
 - **For keys and drums:** a MIDI keyboard or electronic drum kit to be scored.
 - An internet connection for the first setup.
+
+## Removing it
+
+- **Windows:** uninstall Backline from Settings › Apps. Your songs, amp models and settings are kept.
+- **macOS:** first open Backline's **Settings › Storage › Remove song processing** (it frees about 1 GB that the app
+  can't remove once it's gone), then drag Backline from Applications to the Bin. Your songs, amp models and cabs stay in
+  the Backline folder in your home folder; settings and sounds are in `~/Library/Application Support/Backline`.
 
 ## Feedback
 
