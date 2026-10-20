@@ -12,10 +12,13 @@ Get the latest installer from **[Releases](../../releases/latest)**. Older versi
 
 - **Windows:** `Backline-x.y.z-setup.exe`. The installer isn't code-signed yet, so Windows may say "Windows protected
   your PC": click **More info › Run anyway**.
-- **macOS:** coming soon (Apple Silicon).
+- **macOS (Apple Silicon: M1 and newer):** `Backline-x.y.z-mac.dmg`. Open it and drag Backline to Applications. The
+  app isn't signed by Apple yet, so the first time you open it macOS blocks it: go to **System Settings › Privacy &
+  Security**, scroll down and click **Open Anyway**. Allow the microphone when it asks, so Backline hears your
+  instrument.
 
-The installer is small (about 18 MB). The first-run setup downloads the rest: the sound packs you pick, and a one-time
-download of about 3 GB for song processing (about 5 GB once installed).
+The download is small (about 20 MB). The first-run setup downloads the rest: the sound packs you pick, and a one-time
+download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 400 MB, 1 GB installed).
 
 ## What it does
 
@@ -57,12 +60,14 @@ download of about 3 GB for song processing (about 5 GB once installed).
 
 ## What you need
 
-- **Windows 10 or 11**, 64-bit, with a CPU that has AVX2 (almost anything from 2013 on).
+- **Windows 10 or 11**, 64-bit, with a CPU that has AVX2 (almost anything from 2013 on), or **a Mac with Apple
+  Silicon** (M1 or newer).
 - **8 GB of RAM**, 16 GB recommended for importing songs.
-- **About 5 GB of disk** for song processing, plus 50 to 100 MB per song.
-- **An NVIDIA graphics card is optional**: imports take about a minute with one, several minutes on the CPU.
-- **For guitar:** an audio interface or a Rocksmith Real Tone Cable. An interface with an ASIO driver gives the lowest
-  delay.
+- **Disk:** about 5 GB on Windows (1 GB on a Mac) for song processing, plus 50 to 100 MB per song.
+- **Imports:** about a minute on Windows with an NVIDIA graphics card, several minutes on the CPU; about two minutes
+  on an M1.
+- **For guitar:** an audio interface or a Rocksmith Real Tone Cable. On Windows, an interface with an ASIO driver gives
+  the lowest delay; on a Mac, any interface works with low delay as it is.
 - **For keys and drums:** a MIDI keyboard or electronic drum kit to be scored.
 - An internet connection for the first setup.
 
