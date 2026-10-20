@@ -64,7 +64,7 @@ once installed).
 ## What you need
 
 - **Windows 10 or 11**, 64-bit, with a CPU that has AVX2 (almost anything from 2013 on), **or a Mac with Apple
-  Silicon** (M1 or later) on macOS 11 or later (tested on macOS 15). Intel Macs aren't supported.
+  Silicon** (M1 or later) on macOS 13 Ventura or later (tested on macOS 15). Intel Macs aren't supported.
 - **8 GB of RAM**, 16 GB recommended for importing songs.
 - **Disk for song processing:** about 5 GB on Windows, about 1 GB on a Mac, plus 50 to 100 MB per song.
 - **Import speed:** on Windows an NVIDIA graphics card is optional: imports take about a minute with one, several
