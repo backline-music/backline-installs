@@ -1,6 +1,6 @@
 # Backline
 
-**Plug in, play along.** Backline is a practice app for guitar, keys and drums. Drop in any song and it splits it
+**Plug in, play along.** Backline is a practice app for guitar, bass, keys and drums. Drop in any song and it splits it
 into stems, finds the key, tempo, chords and sections, and gives you a part to play along to, with your amp sound,
 scoring and loops. Everything runs on your own computer.
 
@@ -31,10 +31,17 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 **Guitar**
 - Amp models (NAM captures) and speaker cabinets, with a gate, delay and reverb. Low-latency monitoring, so you hear
   your processed guitar as you play.
-- Import a Guitar Pro tab and Backline lines it up with the recording.
+- Import a Guitar Pro tab and Backline lines it up with the recording and sets the song's tuning. Play a tab in Eb
+  Standard, Drop C and the like in E Standard or Drop D: the song shifts to match.
 - Tuner, alternate tunings, and stored tones per song that you switch like pedals.
 
 ![Choosing an amp](screenshots/amps.png)
+
+**Bass**
+- Tab (4 or 5 strings), a fretboard and a staff view, from the song's bass track or your Guitar Pro and MIDI files.
+- A kick drum lane under the tab shows how far ahead or behind the kick each note lands, and a groove trainer speeds
+  up as you stay in the pocket.
+- A bass rig with its own amp, compressor and EQ.
 
 **Keys and drums**
 - Plug in a MIDI keyboard or electronic kit. Backline drafts a keys part and a drum part from the song, or you
@@ -60,43 +67,7 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 
 ## Coming soon
 
-Already built, and in the next version (not in 0.3.0 yet):
-
-- **Smaller song files:** new imports take about 40% less disk space, with no difference you can hear.
-- **Noise gate:** notes fade out naturally instead of being cut off at the end.
-- **Setlists:** more time to settle in after retuning between songs, and the running time counts the retunes.
-- **Setlists:** the pedals you saved for a song show in play mode, and each song starts on its own tone instead of
-  the last song's amp.
-- **Updates:** Backline tells you when a new version is out, with what's new and a download link.
-- **Imports:** quitting while a song is still being added no longer leaves a song missing its end.
-- **Guitar Pro tabs:** a tab from a file without a drum track lines up with the recording much more closely,
-  instead of drifting off by a bar or more later in the song.
-- **Bass:** play songs on bass, with the tab (4 or 5 strings), a fretboard and a staff view. A kick drum lane under the
-  tab shows how far ahead or behind the kick each note lands, and a groove trainer speeds up as you stay in the pocket.
-  Bass parts are transcribed from the song's bass track or imported from Guitar Pro and MIDI files, and the bass rig
-  has its own amp, compressor and EQ.
-- **Imports without an NVIDIA graphics card (Windows):** songs are ready sooner. Keys, bass and drum parts are drafted
-  when you open the song on that instrument instead of during every import, and each import shows how long it has left.
-- **Slower computers:** Backline starts in low power mode on a computer with 4 cores or fewer, and the amp browser
-  points you to lighter amp captures.
-- **Takes:** every take you record is kept (the last 8 per song). Pick which one to hear, and see how each was timed:
-  a graph of every note early or late, with the score, if you were scoring while you recorded.
-- **Guitar Pro tabs:** importing a guitar track sets the song's tuning to the file's (Drop D, for example), so the
-  tuner, the library and setlists know it. A tuning you don't have yet is added for you.
-- **Play in my tuning:** a tab in Eb Standard, D Standard, Drop C and the like has a "Play in E Std" (or Drop D) button.
-  It shifts the song to match, so you can play the tab as written without retuning. On bass it works the same way
-  for a part in your bass's tuning moved up or down (an Eb Standard part on an E Standard bass, for example).
-- **Takes:** recordings take half the disk space, Keep holds a good take when newer ones are recorded, and any take
-  in the list can be deleted, not just the one playing.
-- **Guitar Pro tabs:** tabs and bass parts that sat a couple of beats off the recording in places line up properly.
-  For a tab you imported before, press the new Line up again button next to the tab's delete button.
-- **Notation:** triplets show as triplets on the drum notation and the bass staff instead of being rounded off, and busy
-  bars get more room instead of spilling past the bar line.
-- **Library:** renaming a song while it's open in Practice no longer gets undone a moment later.
-- **What's new tour:** the first time you open a song after updating, a short tour points out the new features
-  (you can replay it from Settings › Practice).
-- **Imports:** the time left gets more accurate after your first few imports, as Backline learns how long your
-  computer takes for every step.
+Nothing yet: the latest version has everything. (The Mac version of 0.4.0 is on its way.)
 
 ## What you need
 
@@ -114,9 +85,9 @@ Already built, and in the next version (not in 0.3.0 yet):
 
 ## How to update
 
-From the version after 0.3.0, Backline tells you when a new version is out: a window on the library when you open the
-app. Click **Download** to open the release page. On 0.3.0 or older the app can't tell you (its Check for updates
-doesn't work), so look at **[Releases](../../releases/latest)** yourself. The downloads are in this private repo, so
+From 0.4.0, Backline tells you when a new version is out: a window on the library when you open the app. Click
+**Download** to open the release page. On 0.3.0 or older the app can't tell you (its Check for updates doesn't work),
+so look at **[Releases](../../releases/latest)** yourself. The downloads are in this private repo, so
 be signed in to GitHub with the account that was invited. Then:
 
 - **Windows:** close Backline, download the new `Backline-x.y.z-setup.exe` and run it. It updates the installed app in
