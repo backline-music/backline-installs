@@ -86,6 +86,21 @@ Already built, and in the next version (not in 0.3.0 yet):
 - **For keys and drums:** a MIDI keyboard or electronic drum kit to be scored.
 - An internet connection for the first setup.
 
+## How to update
+
+Backline tells you when a new version is out (from the version after 0.3.0; before that, check
+**[Releases](../../releases/latest)** or Settings › About › Check for updates). Click **Download** to open the release
+page, then:
+
+- **Windows:** close Backline, download the new `Backline-x.y.z-setup.exe` and run it. It updates the installed app in
+  place, so there's nothing to uninstall first.
+- **macOS:** quit Backline, download the new `.dmg`, open it and drag Backline to Applications, then choose
+  **Replace**. macOS may block the new version once, like the first install: **System Settings › Privacy & Security ›
+  Open Anyway**.
+
+Your songs, progress, amp models, sound packs and settings stay as they are. Song processing doesn't need to be set up
+again; if a new version needs something extra for it, it downloads that on its own at the first launch.
+
 ## Removing it
 
 - **Windows:** uninstall Backline from Settings › Apps. Your songs, amp models and settings are kept.
