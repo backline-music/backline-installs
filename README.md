@@ -67,7 +67,7 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 
 ## Coming soon
 
-Nothing yet: the latest version has everything. (The Mac version of 0.4.0 is on its way.)
+Nothing yet: the latest version has everything.
 
 ## What you need
 
