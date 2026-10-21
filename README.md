@@ -68,8 +68,7 @@ Already built, and in the next version (not in 0.3.0 yet):
 - **Setlists:** the pedals you saved for a song show in play mode, and each song starts on its own tone instead of
   the last song's amp.
 - **Updates:** Backline tells you when a new version is out, with what's new and a download link.
-- **Imports:** quitting while a song is being added no longer leaves a song missing its end, and finding a song's
-  sections picks up again where it left off.
+- **Imports:** quitting while a song is still being added no longer leaves a song missing its end.
 
 ## What you need
 
