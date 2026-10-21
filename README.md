@@ -71,6 +71,16 @@ Already built, and in the next version (not in 0.3.0 yet):
 - **Imports:** quitting while a song is still being added no longer leaves a song missing its end.
 - **Guitar Pro tabs:** a tab from a file without a drum track lines up with the recording much more closely,
   instead of drifting off by a bar or more later in the song.
+- **Bass:** play songs on bass, with the tab (4 or 5 strings), a fretboard and a staff view. A kick drum lane under the
+  tab shows how far ahead or behind the kick each note lands, and a groove trainer speeds up as you stay in the pocket.
+  Bass parts are transcribed from the song's bass track or imported from Guitar Pro and MIDI files, and the bass rig
+  has its own amp, compressor and EQ.
+- **Imports without an NVIDIA graphics card (Windows):** songs are ready sooner. Keys, bass and drum parts are drafted
+  when you open the song on that instrument instead of during every import, and each import shows how long it has left.
+- **Slower computers:** Backline starts in low power mode on a computer with 4 cores or fewer, and the amp browser
+  points you to lighter amp captures.
+- **Takes:** every take you record is kept (the last 8 per song). Pick which one to hear, and see how each was timed:
+  a graph of every note early or late, with the score, if you were scoring while you recorded.
 
 ## What you need
 
