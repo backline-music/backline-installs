@@ -58,6 +58,16 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 
 ![The library](screenshots/library.png)
 
+## Coming soon
+
+Already built, and in the next version (not in 0.3.0 yet):
+
+- **Smaller song files:** new imports take about 40% less disk space, with no difference you can hear.
+- **Noise gate:** notes fade out naturally instead of being cut off at the end.
+- **Setlists:** more time to settle in after retuning between songs, and the running time counts the retunes.
+- **Setlists:** the pedals you saved for a song show in play mode, and each song starts on its own tone instead of
+  the last song's amp.
+
 ## What you need
 
 - **Windows 10 or 11**, 64-bit, with a CPU that has AVX2 (almost anything from 2013 on), or **a Mac with Apple
