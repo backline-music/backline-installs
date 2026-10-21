@@ -87,7 +87,8 @@ Already built, and in the next version (not in 0.3.0 yet):
   in the list can be deleted, not just the one playing.
 - **Guitar Pro tabs:** tabs and bass parts that sat a couple of beats off the recording in places line up properly
   (new imports).
-- **Notation:** triplets show as triplets on the drum notation and the bass staff instead of being rounded off.
+- **Notation:** triplets show as triplets on the drum notation and the bass staff instead of being rounded off, and busy
+  bars get more room instead of spilling past the bar line.
 - **Library:** renaming a song while it's open in Practice no longer gets undone a moment later.
 
 ## What you need
