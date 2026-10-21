@@ -90,6 +90,8 @@ Already built, and in the next version (not in 0.3.0 yet):
 - **Notation:** triplets show as triplets on the drum notation and the bass staff instead of being rounded off, and busy
   bars get more room instead of spilling past the bar line.
 - **Library:** renaming a song while it's open in Practice no longer gets undone a moment later.
+- **Imports:** the time left gets more accurate after your first few imports, as Backline learns how long your
+  computer takes for every step.
 
 ## What you need
 
