@@ -88,9 +88,10 @@ Already built, and in the next version (not in 0.3.0 yet):
 
 ## How to update
 
-Backline tells you when a new version is out (from the version after 0.3.0; before that, check
-**[Releases](../../releases/latest)** or Settings › About › Check for updates). Click **Download** to open the release
-page, then:
+From the version after 0.3.0, Backline tells you when a new version is out: a window on the library when you open the
+app. Click **Download** to open the release page. On 0.3.0 or older the app can't tell you (its Check for updates
+doesn't work), so look at **[Releases](../../releases/latest)** yourself. The downloads are in this private repo, so
+be signed in to GitHub with the account that was invited. Then:
 
 - **Windows:** close Backline, download the new `Backline-x.y.z-setup.exe` and run it. It updates the installed app in
   place, so there's nothing to uninstall first.
