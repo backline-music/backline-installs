@@ -67,7 +67,7 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 
 ## Coming soon
 
-Nothing yet: the latest version has everything.
+- Clean amps are no longer much quieter than distorted ones: every amp is levelled for how you actually play.
 
 ## What you need
 
