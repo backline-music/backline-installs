@@ -85,8 +85,8 @@ Already built, and in the next version (not in 0.3.0 yet):
   tuner, the library and setlists know it. A tuning you don't have yet is added for you.
 - **Takes:** recordings take half the disk space, Keep holds a good take when newer ones are recorded, and any take
   in the list can be deleted, not just the one playing.
-- **Guitar Pro tabs:** tabs and bass parts that sat a couple of beats off the recording in places line up properly
-  (new imports).
+- **Guitar Pro tabs:** tabs and bass parts that sat a couple of beats off the recording in places line up properly.
+  For a tab you imported before, press the new Line up again button next to the tab's delete button.
 - **Notation:** triplets show as triplets on the drum notation and the bass staff instead of being rounded off, and busy
   bars get more room instead of spilling past the bar line.
 - **Library:** renaming a song while it's open in Practice no longer gets undone a moment later.
