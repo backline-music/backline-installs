@@ -83,6 +83,8 @@ Already built, and in the next version (not in 0.3.0 yet):
   a graph of every note early or late, with the score, if you were scoring while you recorded.
 - **Guitar Pro tabs:** importing a guitar track sets the song's tuning to the file's (Drop D, for example), so the
   tuner, the library and setlists know it. A tuning you don't have yet is added for you.
+- **Play in my tuning:** a tab in Eb Standard, D Standard, Drop C and the like has a "Play in E Std" (or Drop D) button.
+  It shifts the song to match, so you can play the tab as written without retuning.
 - **Takes:** recordings take half the disk space, Keep holds a good take when newer ones are recorded, and any take
   in the list can be deleted, not just the one playing.
 - **Guitar Pro tabs:** tabs and bass parts that sat a couple of beats off the recording in places line up properly.
