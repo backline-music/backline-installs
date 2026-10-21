@@ -69,6 +69,8 @@ Already built, and in the next version (not in 0.3.0 yet):
   the last song's amp.
 - **Updates:** Backline tells you when a new version is out, with what's new and a download link.
 - **Imports:** quitting while a song is still being added no longer leaves a song missing its end.
+- **Guitar Pro tabs:** a tab from a file without a drum track lines up with the recording much more closely,
+  instead of drifting off by a bar or more later in the song.
 
 ## What you need
 
