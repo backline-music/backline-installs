@@ -81,6 +81,8 @@ Already built, and in the next version (not in 0.3.0 yet):
   points you to lighter amp captures.
 - **Takes:** every take you record is kept (the last 8 per song). Pick which one to hear, and see how each was timed:
   a graph of every note early or late, with the score, if you were scoring while you recorded.
+- **Guitar Pro tabs:** importing a guitar track sets the song's tuning to the file's (Drop D, for example), so the
+  tuner, the library and setlists know it. A tuning you don't have yet is added for you.
 
 ## What you need
 
