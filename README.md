@@ -67,7 +67,8 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 
 ## Coming soon
 
-Nothing yet: the latest version has everything.
+- Switching pedals always gives the pedal's own cab (it could end up on the cab last used with that amp).
+- Match the record suggests clean amps for clean sections, crunch for crunch and high gain for high gain, matching the label it shows. Songs are matched again after the update.
 
 ## What you need
 
