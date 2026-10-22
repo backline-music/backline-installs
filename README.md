@@ -69,7 +69,8 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 
 - Clean amps are no longer much quieter than distorted ones: every amp is levelled for how you actually play.
 - Takes recorded with scoring off now get a timing graph too.
-- Match the record (Rig page): Backline listens to a song's guitar and suggests the amps and cabs that sound closest, section by section. The practice pedal board then shows the 3-4 tones the song needs, one click to load.
+- Match the record (Rig page): Backline listens to a song's guitar and suggests the amps and cabs that sound closest, section by section. The practice pedal board then shows the 3-4 tones the song needs, one click to load. New imports get this automatically.
+- Drum notation and the bass staff now show 16th-note triplets and quarter-note triplets (before, only 8th-note triplets; the rest were rounded to 16ths).
 
 ## What you need
 
