@@ -69,7 +69,7 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 
 - Clean amps are no longer much quieter than distorted ones: every amp is levelled for how you actually play.
 - Takes recorded with scoring off now get a timing graph too.
-- Match the record (Rig page): Backline listens to a song's guitar and suggests the amps and cabs that sound closest, section by section. The practice pedal board then shows the 3-4 tones the song needs, one click to load. New imports get this automatically.
+- Match the record: Backline listens to each song's guitar and suggests the amps and cabs that sound closest, section by section (Rig page). The practice pedal board then shows the 3-4 tones the song needs, one click to load. It runs by itself: new imports right away, songs you already have in the background after the update.
 - Switching pedals mid-song is instant: the amps a song's pedals use load when the song opens.
 - Sustain pedals that work the other way round (made for other keyboards) are detected from your first press, or can be set on the keys rig.
 - Keys: practise one hand and let Backline play the other (Play it for me), and switch the falling notes to finger numbers (Labels › Fingers).
