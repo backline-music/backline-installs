@@ -81,6 +81,7 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 - Guitar Pro tabs that start or end partway into the song line up much better (use Line up again on tabs you already imported).
 - Chord names catch minor chords (a Dm no longer shows as D5) and show far fewer made-up 7ths. Power chords may now show as the full chord (C instead of C5).
 - Drum parts drafted from a song tell crash from ride better (a ridden crash stays a crash) and no longer mark random snares as ghost notes.
+- On the way, still being built: Vocals. Sing along on a pitch lane that shows your voice against the melody, with the lyrics underneath and on the 3D stage. Melody and lyrics are drafted from the song (an optional download), or paste the lyrics and line them up.
 
 ## What you need
 
