@@ -79,6 +79,7 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 - Build one for me in Library › Sessions: a practice session made from your runs (a warm-up, your weak sections, songs ready for the next level, one close to your best, a new part).
 - Guitar Pro tabs line up with the recording better, including songs where the beat seems to slow to half time.
 - Guitar Pro tabs that start or end partway into the song line up much better (use Line up again on tabs you already imported).
+- Chord names catch minor chords: a Dm no longer shows as D5. Power chords may now show as the full chord (C instead of C5).
 
 ## What you need
 
