@@ -72,10 +72,13 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 - Stage mode fills the window: the top bar is hidden while you play (Esc or Exit stage leaves).
 - A 3D stage for guitar and bass in stage mode: the notes come down a fretboard toward you, with an amp backline, a crowd that gets into it as your combo grows, and the visualizer on big screens. Press D to switch between it and the tab, and turn it off in Settings › Display.
 - Busy parts are easier to read on the 3D stage: a chord strummed over and over shows as a ladder instead of a pile of notes, the frets you're playing are lit, and notes further off fade. Note speed is yours per song: − and + next to Exit stage, or [ and ].
+- The 3D stage is lighter on your computer: about 15% less CPU while you play.
+- Settings › Display › Strings: show the strings the way you see them while playing, low E on top (tab, fretboard and 3D stage).
 - Easy, Medium and Full for every part: Easy plays one note per beat (the root of each chord, or kick, snare and hi-hat on drums), Medium a bit more, Full is the part as written. Each level keeps its own best; achievements and weekly challenges count Full.
 - Fix these: after a run, loop your weakest bars one at a time, starting slow and speeding up as you get them clean.
 - Build one for me in Library › Sessions: a practice session made from your runs (a warm-up, your weak sections, songs ready for the next level, one close to your best, a new part).
 - Guitar Pro tabs line up with the recording better, including songs where the beat seems to slow to half time.
+- Guitar Pro tabs that start or end partway into the song line up much better (use Line up again on tabs you already imported).
 
 ## What you need
 
