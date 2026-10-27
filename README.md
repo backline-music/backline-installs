@@ -80,6 +80,7 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 - Drum parts drafted from a song tell crash from ride better (a ridden crash stays a crash) and no longer mark random snares as ghost notes.
 - Recording a take no longer stutters as it starts or freezes the app while it saves, and restoring a backup is safer: a restore that fails partway puts everything back as it was.
 - Switching drum kits quickly no longer leaves two kits playing at once, and the 3D stage shows the right strings when you switch to a 5-string bass or 7-string guitar part.
+- Fixed a freeze (the window stopped responding and couldn't be closed) when the audio interface's driver reset itself, for example when it reconnected.
 - On the way, still being built: Vocals. Sing along on a pitch lane that shows your voice against the melody, with the lyrics underneath and on the 3D stage. Melody and lyrics are drafted from the song (an optional download), or paste the lyrics and line them up.
 
 ## What you need
