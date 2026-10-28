@@ -82,7 +82,7 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 - Switching drum kits quickly no longer leaves two kits playing at once, and the 3D stage shows the right strings when you switch to a 5-string bass or 7-string guitar part.
 - Fixed a freeze (the window stopped responding and couldn't be closed) when the audio interface's driver reset itself, for example when it reconnected.
 - Gaps filled: when a Guitar Pro tab sits out long stretches (a lead that rests through the verses) and the song has another tab in the same tuning, the tab picker offers both together, "Lead + Rhythm (gaps filled)", so you're always playing something. Each switch is marked over the tab.
-- On the way, still being built: Vocals. Sing along on a pitch lane that shows your voice against the melody, with the lyrics underneath and on the 3D stage. Melody and lyrics are drafted from the song (an optional download), or paste the lyrics and line them up.
+- Vocals: sing along on a pitch lane that shows your voice against the melody, with the lyrics underneath and on the 3D stage, scored note by note (Tight, Normal or Loose), and a summary of your range and the lines to work on. Melody and lyrics are drafted from the song (an optional download), or paste the lyrics and line them up. Pick Vocals in the instrument menu.
 
 ## What you need
 
