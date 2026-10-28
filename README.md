@@ -74,6 +74,7 @@ download for song processing (Windows: about 3 GB, 5 GB installed; Mac: about 40
 - Settings › Display › Strings: show the strings the way you see them while playing, low E on top (tab, fretboard and 3D stage).
 - Easy, Medium and Full for every part: Easy plays one note per beat (the root of each chord, or kick, snare and hi-hat on drums), Medium a bit more, Full is the part as written. Each level keeps its own best; achievements and weekly challenges count Full.
 - Fix these: after a run, loop your weakest bars one at a time, starting slow and speeding up as you get them clean.
+- Bass: the count-in plays a kick and hi-hat instead of a click, save your own bass rig presets, hear a note's spot in the bass stem slowed to 50% while fixing a tab, and the staff marks a 5-string's lowest notes 8vb instead of stacking ledger lines.
 - Build one for me in Library › Sessions: a practice session made from your runs (a warm-up, your weak sections, songs ready for the next level, one close to your best, a new part).
 - Guitar Pro tabs line up with the recording better, including songs where the beat seems to slow to half time and tabs that start or end partway into the song (use Line up again on tabs you already imported).
 - Chord names catch minor chords (a Dm no longer shows as D5) and show far fewer made-up 7ths. Power chords may now show as the full chord (C instead of C5).
